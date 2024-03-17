@@ -1,0 +1,2978 @@
+Brandon good to uh have you here today
+
+Brandon Kesler is the CEO founder of Dev
+
+post uh we have run across each other
+
+and run in the same circles for as long
+
+as I've run draft. Dev I think I've
+
+heard about you guys several years ago
+
+um and then officially we met in person
+
+at a conference recently so excited to
+
+to get to talk to you more give us the
+
+um the quick high level what is Dev post
+
+we'll start there and then I want to
+
+hear more about your background and kind
+
+of how you got into it before we then
+
+get into the the meat of this which
+
+we'll be talking about hackathons yeah
+
+uh first thanks so much for having me
+
+really appreciate it thanks to everybody
+
+for joining so um devpost is a platform
+
+for software competitions um our mission
+
+is to inspire developers to build so
+
+when developers are looking to improve
+
+their craft uh when they're bored when
+
+they're either outside of a company or
+
+inside of a company and looking to come
+
+up with new ideas and be inspired we
+
+want them to come to Dev post and so we
+
+have two products we have a public
+
+hackathon product I think this is most
+
+of what we'll be discussing today um
+
+which is we power most of the world's
+
+hackathons we provide the platform that
+
+makes it easy to run the competition
+
+saves everybody a minimum of half their
+
+time organizing and participating and
+
+then we have a large community that's
+
+Global and uh so we can bring those
+
+people to the competitions in order to
+
+build and be inspired and then the last
+
+is we have a Services team that helps
+
+organize manage Market promote these
+
+competitions the second product is a
+
+private product for hackathons called
+
+Dev post for teams that's for inside
+
+your company for your employees to do
+
+private hackathons and also private
+
+hackathons with your customers yeah I
+
+really want to talk we we'll talk a
+
+little about the private ones at the end
+
+because I think for this audience R
+
+there may be less of uh interesting
+
+thing but I personally am interested in
+
+that so I do want to talk about that
+
+because I think that's something that is
+
+getting more popular and especially when
+
+bigger companies you're seeing it more
+
+but Okay cool so how did you get into
+
+this because from what I see on LinkedIn
+
+you were in media and writing which it's
+
+funny I in similar in college I think
+
+you started some Publications I started
+
+a publication a news College news
+
+publication when I was on my campus and
+
+then somehow I got into software
+
+engineering and you went the other way
+
+and got into starting a business and
+
+eventually you know we so it's funny to
+
+see that um tell me about your
+
+background like how did you get into
+
+this and what what is the pathway to De
+
+Post Yeah in college I start a
+
+publication I started a record label so
+
+um music industry so close I I I would
+
+sign bands get them in the studio
+
+oversee the making of the records
+
+promote a market distribute it and use a
+
+lot of internet for get them out of jail
+
+for cocaine possession you name it uh
+
+that was uh 12 13 years of my life uh
+
+and so um loved it and I really like
+
+working with creative people um helping
+
+their creative projects get out there in
+
+the world but we use technology in
+
+pretty much everything that we did and
+
+so um after 12 13 years of babysitting
+
+artists uh I was I wanted to have a a
+
+product uh that we could build uh that
+
+would would grow and have an impact and
+
+so uh I started seeing these Grassroots
+
+competitions sprouting up on the web
+
+many of them were Technology based some
+
+weren't there was an inspirational one
+
+hey create a software program that
+
+allows Windows to run on the Mac before
+
+Apple let you do that and in weeks there
+
+was like $14,000 collectively
+
+contributed by hundreds of individuals
+
+companies teams working throughout the
+
+night to solve this problem and it was
+
+done in three weeks that was really cool
+
+I was blown away and I started calling
+
+up these people that were doing these
+
+Grassroots competitions and they were
+
+doing them on their blogs and there was
+
+no community so at the time created the
+
+company to be a platform and Community
+
+for these skill competitions and then we
+
+sort of pivoted our way in terms of what
+
+are the kinds of competitions that we're
+
+going to support uh how can we uh Focus
+
+so that our community understands the
+
+types that we're doing and then
+
+eventually we just started focusing on
+
+developer competitions software
+
+competitions and hackathons and since
+
+then that is all we've done is software
+
+competitions uh so um the the thread
+
+between sort of music and having a label
+
+and uh and what we're doing now I think
+
+that you know it's closer to me I think
+
+than than most people might think which
+
+is working with people to be creative
+
+and to build and to make things and to
+
+help Inspire them to do that and get the
+
+word out across both music and then now
+
+technology yeah cool I could geek out on
+
+music stuff and Engineering stuff all
+
+day just because that's also interest of
+
+mine um but I will spare the list
+
+anytime um yeah we'll have to do that
+
+offline uh so let's talk about why
+
+hackathons actually this comes up a lot
+
+in client calls I hear it especially
+
+like so often what I found in our our
+
+calls is that you know a developer
+
+marketing person who is maybe less
+
+technical will kind of have a hard time
+
+understanding like why am I going to put
+
+all the resources together to like
+
+organize this huge event this
+
+competition and then maybe I get some
+
+leads that are maybe just Junior
+
+developers out of it you know like they
+
+have a hard time like Drawing the Line
+
+there and as a software developer myself
+
+I understand the line a little better
+
+but you tell me like what do you hear
+
+from from customers why do they want to
+
+do hackathons what why what are kind of
+
+the good reasons that that people are
+
+doing it what really do they get out of
+
+it yeah for sure so there's two sides
+
+right there's the why do people
+
+participate in them and then why do
+
+people sponsor them uh the people that
+
+participate in them get inspired to
+
+build and they um they learn and they
+
+can improve their craft and it's one
+
+thing to re We Believe content is really
+
+important we do a lot of it you all are
+
+amazing at it and they all work together
+
+but it's not enough in order to you know
+
+you want all of the above you want the
+
+good content there but then you need to
+
+incentivize them and Inspire them to
+
+make so on the developer side you know
+
+look deadlines create urgency that uh
+
+you know that uh developers often can
+
+use uh there are prizes given without
+
+taking intellectual property um you
+
+learn one of the best ways which is
+
+through building not just being in a
+
+classroom but by actual building and um
+
+and they're also fun and they can meet
+
+other people and that sort of thing
+
+scratch these creative itches that they
+
+have on something they might want to
+
+make so those are a lot of the reasons
+
+and then on the on the organizer side
+
+you know there's a there's a metric I
+
+like to to share a lot which is between
+
+5% and
+
+33% of anybody that clicks the register
+
+button for one of our hackathons goes on
+
+to spend days weeks or months building
+
+and submitting so you compare that to
+
+going to a conference to reading one
+
+piece of content alone with nothing else
+
+Etc it blows it away it's between 5% and
+
+onethird of everyone who clicks a button
+
+goes and makes something so I think uh
+
+those in the developer marketing
+
+developer relations Community yes it
+
+does take work makes sense to try and
+
+get help if you can and if not one can
+
+try doing it themselves but the the
+
+value is that you get a community who
+
+actually is incentivized to learn and
+
+build uh in a world that where
+
+everyone's trying to Market to
+
+developers so there are other reasons
+
+but I think those are those are the key
+
+ones I'll just say that you know my
+
+entire history I've heard people say you
+
+know our hackathon over or you know is
+
+is is is our hackathons out and and they
+
+just they grow every single year because
+
+it's not a gimmick it's just um really
+
+trying to give something to people in
+
+order to um you know which is an
+
+incentive in order to to try and learn
+
+and build with your tool yeah I love it
+
+I so you said a few things there that
+
+I'll I'll kind of double down on just
+
+being former developer and having been
+
+really um in their head space the big
+
+one is one of our big jobs as software
+
+developers is never stop learning and I
+
+think sometimes people outside of the
+
+software development world don't realize
+
+how much that is true for software
+
+developers because the tools are
+
+constantly changing and in today's world
+
+I mean we got AI stuff coming it's just
+
+it's not stopping you know there's not a
+
+like there's not some magical threshold
+
+where now all the tools have been built
+
+and we're just going to make Sofer the
+
+same way for 100 years like is
+
+constantly changing and so one of the
+
+big challenges I had as a developer was
+
+staying on top of the latest things and
+
+getting the excuse to try the latest
+
+things because you can't do it all at
+
+work in production you know you've got
+
+to have some time to experiment with
+
+things that is outside of that and
+
+that's where hackathons can be really
+
+really interesting and compelling for a
+
+software developer to join at any level
+
+of experience and again like a lot of
+
+times when people ask me about
+
+hackathons they say was it all just
+
+Junior developers who are trying to
+
+build their portfolio like absolutely
+
+not like I as a anybody with five or 10
+
+years of experience still needs to keep
+
+doing that I mean you can't stop
+
+learning um so I think that's that's a
+
+really important thing and the other
+
+thing I would say for the the sponsors
+
+is to me it comes down to trust and it's
+
+honestly the same kind of thing that we
+
+do with our content and that anybody in
+
+developer marketing is trying to improve
+
+is how do I build a stronger
+
+relationship with better trust between
+
+our product and our users and a
+
+hackathon is a way for people in a low
+
+stress environment or kind of a fun
+
+environment to build something build up
+
+Trust with your product and see it in
+
+action and then it becomes so much
+
+easier than you know bring that into the
+
+company because you've already built
+
+something with it so I think it's a a
+
+really compelling and interesting
+
+exciting way to kind of get the word out
+
+and try something new yeah and there's
+
+two things you said that I think are
+
+interesting one is and you mentioned
+
+this in the previous question this idea
+
+of younger or or Junior developers so
+
+we're fortunate to power uh on our
+
+platform the majority of college
+
+hackathons around the globe we work with
+
+our partners mlh were terrific and we we
+
+think it's super important to be
+
+reaching developers when they're start
+
+me look I I got my first American
+
+Express card when I was a fresh my first
+
+day at school at campus and had it ever
+
+since there's this idea of going exactly
+
+like the two people on this webinar
+
+started early so we uh we think that's
+
+really important to get people when
+
+they're Junior but I will say the
+
+overlap in our community and I love them
+
+I think in-person college hackathons are
+
+incredible for um they're more fun um
+
+and there's a lot of community around
+
+them and you get people earlier there's
+
+not a lot of overlap in our community
+
+between those that participate in
+
+in-person college hackathons and our
+
+professional um hackathons they they
+
+like that Community they want to be
+
+doing what their friends are doing they
+
+have a million different things and so
+
+there truly is a separate Community for
+
+the most part it's as people you know
+
+are older and and working professionally
+
+and we've been doing this for like 12 13
+
+years so you know as that you
+
+matriculate out of college they start
+
+participating and those are the ones
+
+that participate in the professional
+
+hackathons they have jobs they're
+
+generally employed they're interested in
+
+learning these tools so that they can
+
+become better developers and upskill and
+
+you know the vast majority are employed
+
+one thing you did mention AI I just
+
+think it's important to say never in my
+
+career have I seen anything change or
+
+transform hackathons like AI has almost
+
+every hackathon that we are doing has
+
+some AI component and um that's because
+
+if you can't just talk about AI you've
+
+got to Tinker and build and experiment
+
+in order to uncover the value and so
+
+hackathons plus AI is uh is really quite
+
+exploded like nothing I've ever seen
+
+yeah I'm glad you mentioned that I
+
+actually had that on my notes to come
+
+back to so let's definitely come put
+
+back put it in back and come back okay
+
+um what are they not good for because I
+
+actually get this question sometimes
+
+from especially and I'll just put some
+
+context I hear it from early stage
+
+startups a lot they're like man it's
+
+going to take a lot of time and
+
+resources and the payoff period might be
+
+long like should I be doing hackathons
+
+early on and I always I mean I have some
+
+opinions but I think you probably have
+
+more informed opinions and so i' I'd
+
+want to hear from you Brandon like
+
+what's it not an answer for no no one
+
+channel is a Panacea no you know
+
+nothing's perfect like when do you tell
+
+people maybe you're not ready for
+
+hackathon I think two things one is the
+
+structure if what you want as an output
+
+um is that you want to own the
+
+applications like you're using it as a
+
+procurement thing you know like oh I
+
+want someone to build this thing for me
+
+I'm going to run a hackathon get I'm
+
+tons of people are going to like do it
+
+I'll submit I'll pick the best and get
+
+it on the cheap bad idea uh that's not a
+
+hackathon we we don't let them on our
+
+platform you know um and and it's not a
+
+hackathon that's a procure that's a
+
+cheap procurement that some people think
+
+is about spec work and that kind of
+
+thing so we see people come in with
+
+those that that's not a good reason to
+
+do it it's not that you want to own the
+
+applications you know Apple doesn't want
+
+to own the app on their iPhone they just
+
+want you to build on iOS so that they
+
+can grow their ecosystem so that's one
+
+in terms of like the stages no we we we
+
+think hackathons are are are great with
+
+early stages just expectations should be
+
+lower you know um I think one thing
+
+we'll probably get to is what makes a
+
+great hackathon what are those
+
+components and maybe at that time I'll
+
+share more about you know what those
+
+things might be and they probably relate
+
+to how Junior you are in certain places
+
+but if the expect ations are relatively
+
+low we don't think hackathons are just a
+
+one-off marketing event they should just
+
+be an ongoing Outreach that you're doing
+
+you're doing it regularly we have a new
+
+feature we want to incentivize people to
+
+do it we're going to have another
+
+quarterly hackathon or you know every
+
+six months hackathon not a one-off so
+
+that you're constantly growing that and
+
+they also to this last point on this is
+
+they work great as an umbrella
+
+initiative over the other things you're
+
+doing so you're going to conferences
+
+you've got content um you're streaming
+
+you're doing all kinds of things and you
+
+can have a virtual hackathon where when
+
+you're doing those efforts you send them
+
+to hey check this out you can win a or b
+
+and get technical support and that kind
+
+of thing so expectations are lower but
+
+absolutely would not discourage smaller
+
+companies I think in some ways it's it's
+
+it's crucial yeah you said a a thing
+
+that I point people to a lot in
+
+developer marketing and developer
+
+relations which is that it's not one
+
+channel and you have to stop kind of
+
+break with your thought that one channel
+
+is what's going to make us win in the
+
+long run if you look at all the the
+
+biggest companies that do Dev tools it's
+
+like multi Channel Omni Channel whatever
+
+you want to call that right it's they do
+
+events and those are built off of like
+
+conference talks that are made from blog
+
+posts which then you know the ideas they
+
+get at conferences feed into more blog
+
+posts which then feeds into what we can
+
+do with our product and hackathons
+
+around the product and then what people
+
+build there gives them ideas for blog
+
+post it's like this you really got to
+
+have some people that understand how to
+
+tile that together and kind of use one
+
+channel to then generate ideas for other
+
+channels essentially um and not you know
+
+it's like I don't I don't like to to
+
+tell somebody you have to do all that or
+
+else it's not worth doing anything it's
+
+not that black and white but it's more
+
+like how can you kind of get two or
+
+three channels set up that feed each
+
+other and I think again hackathons are a
+
+great place to start from like let's
+
+generate content off those hackathons
+
+let's generate product ideas off the
+
+hackathons let's you know like just all
+
+that and as well as community building
+
+and then you can have an internal
+
+community based off of the work that's
+
+done there things like that that's
+
+that's really cool definitely the very
+
+first step in a hackathon after you
+
+register is going to be go sign up for
+
+our to get our API or our developer to
+
+read this content and this tutorial by
+
+the way we have this educational content
+
+in case you're interested here's our
+
+Discord or whatever it is to join that
+
+and all of a sudden you're when you're
+
+incentivizing them there are some prizes
+
+there are cool initiatives you're trying
+
+to get them to do to inspire them you
+
+now bring in all that other stuff
+
+totally
+
+y so you you alluded to this and this
+
+was on my list of questions Let's Do It
+
+um what makes a good hackathon are there
+
+like five or six key components because
+
+I could see people doing the DIY route
+
+at least their first time to try it
+
+maybe they're not sure if they want to
+
+invest big into it and I could see it
+
+being one of those efforts that quickly
+
+snowballs into how much there is
+
+involved like what are some of the
+
+Highlight things that you guys point out
+
+like kind of separate those that sort of
+
+don't really go as well as people
+
+playing versus the ones that really take
+
+off yeah so every hackathon is different
+
+every compan is different every product
+
+is different there is no like you will
+
+get X Y or Z exact numbers afterwards
+
+these are these are initiatives but the
+
+uh We've looked back through all of the
+
+data and we've noticed that there are
+
+four things that you know push things to
+
+the higher ranges of outcomes one is
+
+promotion marketing if people don't hear
+
+about this they're not going to register
+
+or submit it's just a fact so with our
+
+customers we have a really large
+
+community uh in the millions we we um
+
+let our community know and also
+
+encourage our customer to let their
+
+Community know and to re-engage their
+
+existing developers uh really the more
+
+that they hear about it the better
+
+because developers as you know are busy
+
+in demand have a million things going
+
+and they're marketing averse they block
+
+ads in their browser more than any other
+
+professional group but yet they're
+
+building our future and they are
+
+interested in learning about valuable
+
+tools so you know it's important to
+
+reach them and so that that's one which
+
+is promotion um the second is that the
+
+competition should be interesting uh
+
+this is a bit of Art and Science but um
+
+it really means that there's a product
+
+that is valuable that's going to really
+
+help people and there's enough of them
+
+out there to help uh we've done
+
+competitions that focus on
+
+bioinformatics groups at medical schools
+
+that's fine it's just going to be
+
+smaller if you're looking for larger
+
+numbers a product should be uh you know
+
+valuable in a in a big enough market and
+
+as for the themes we can work on on that
+
+whether they go big or whether they go
+
+broad but generally that's what makes
+
+something interesting um the third is
+
+that there's tech support so if people
+
+start using a tool and they get stuck
+
+and there's nobody that can help them
+
+then they're going to bounce and then
+
+the last is fair prizes which can be a
+
+broad range but it really depends on the
+
+ask and uh who one is going after uh but
+
+if you add up first second third some
+
+honorable mentions you know and you
+
+think about developers time and what
+
+it's worth um you know there should be
+
+prizes that are fair it doesn't have to
+
+all be cash to can be in prizes and
+
+meetings and stuff like that so those
+
+four things the marketing that the
+
+competition is interesting that there's
+
+sufficient tech support and fair prizes
+
+are really what would give you the best
+
+best chances So to that question earlier
+
+about you know if you're just starting
+
+out promotion might be a little bit
+
+harder because maybe they don't have a
+
+community and we're introducing people
+
+to the first time doesn't mean that it
+
+shouldn't be done just lower
+
+expectations to uh to some degree uh in
+
+terms of the competition being
+
+interesting does doesn't mean that it's
+
+necessarily any less interesting there
+
+just might be name recognition like that
+
+and they're going to make have to make
+
+sure there's enough prizes and that
+
+there's tech support uh and but if those
+
+things are in place I think it's great
+
+yeah I was going to ask about the the
+
+tech support and maybe specifically like
+
+the documentation side of things right
+
+because I this actually comes up with us
+
+a lot we we tell clients like we can't
+
+really go write great tutorials and do
+
+video tutorials for you if you don't
+
+have any like docs like you have to have
+
+some basic level documentation or
+
+something that even if it's we've done
+
+it occasionally internal docs that we
+
+just you know kind of gave us enough of
+
+a working Point what's what's you all's
+
+kind of minimum threshold that you
+
+recommend I there's probably like a
+
+minimum threshold just to get by but
+
+then there's probably like a recommended
+
+threshold of like if you really want
+
+people to to take this seriously you're
+
+going to have to give them a little more
+
+to go on um what would you kind of say
+
+to that like how much does a company
+
+need to have as well as as far as
+
+documentation and support available
+
+that's a great question I think one way
+
+to frame it in the hackathon is to
+
+actually explain where the company is
+
+you know we've been around this long our
+
+documentation explains a b and c we're
+
+interested in improving it and looking
+
+for your feedback and can certainly ask
+
+that as part of the hackathon as well so
+
+as long as there's sort of
+
+straightforward explanation of where one
+
+company is there isn't necessarily a
+
+hard and fast rule sure the better the
+
+documentation the clearer it is then the
+
+more time people will save and the less
+
+chance they have to jump but if I had to
+
+answer that I would probably say you
+
+know obviously a description of end
+
+points and how one uses it and then at
+
+the very least that that is you know
+
+minimum there needs to be some
+
+documentation I would be shocked if it's
+
+rare that we we don't see that happen it
+
+might be that it could be improved but
+
+there generally is something and then
+
+something to explain you know where
+
+you're actually seeing or reading how
+
+one might use it with potentially some
+
+sample code and get to Hell world or
+
+something similar like that I think
+
+those are generally uh Basics and then
+
+beyond that is is gravy uh but you know
+
+what about you what do you see so yeah I
+
+I think that for us when when when I
+
+think about like the the things that we
+
+need in documentation we do need like at
+
+least the the endpoints available and
+
+what what they're going to do right some
+
+idea there but I think some some people
+
+have had as as sort primitive a a
+
+collection as like a postman collection
+
+which you know you can work from like if
+
+just you know we all know how to
+
+download Postman and use it and then on
+
+the other hand we've had others where
+
+they've already got whole libraries of
+
+tutorials and getting started guys and
+
+they're looking to kind of next level up
+
+their content right like go to the next
+
+level and I think what you said is
+
+exactly right it's like I think of
+
+content in the the sort of priority list
+
+for content in for terms of what are the
+
+most core essential things you need
+
+versus the things that you only do once
+
+you're huge and the things you only do
+
+once you're huge are things like um
+
+you're writing about SEO related topics
+
+that are completely underated to your
+
+product but there might be a tiny bit of
+
+crossover with your core user group
+
+right um and when you're a massive
+
+publicly traded company you can
+
+absolutely do that when you're a little
+
+smaller you don't start there right like
+
+that you start with what's our product
+
+do um and so that that sort of core
+
+level documentation is really important
+
+the hard part I find and this is you
+
+know again goes back to your point about
+
+like be honest with where you're at is
+
+earlier stage companies are often
+
+changing their products so quickly that
+
+it's very hard for them to document or
+
+keep it up to date and I imagine that
+
+comes up in hackathons but that said I
+
+imagine again this happens with
+
+hackathons it's like we often will tell
+
+a client hey look we figured out this
+
+tutorial we got it working but your docs
+
+were out of date and this thing was
+
+wrong and this is how it actually works
+
+and then they'll sort of we give them
+
+that feedback to to update sure that
+
+comes up in hackathons too so definitely
+
+it can be good even if you aren't as
+
+mature yeah and and I I think that's
+
+really the minimum I I would say one
+
+other thing that's worth uh doing we
+
+encourage as part of the hackthon are
+
+you know office hours or a type of live
+
+stream office hour web it could be
+
+Discord office hours it could be um a
+
+video but where you're just saying okay
+
+right you've seen that maybe or you've
+
+watched that maybe but what's your
+
+specific question and people can kind of
+
+get more one-on-one help at that time so
+
+there is effort involved um in you know
+
+hackathon of course it's never going to
+
+be said it or forget it I don't think
+
+it's different for any other any other
+
+marketing initiative yeah okay so
+
+another one that comes up that I I'm
+
+always curious about and I don't
+
+remember who I talked to about this
+
+recently but what do you do when your
+
+product is kind of a one-trick pony and
+
+here's an example like authentication um
+
+I don't want to demean authentication
+
+it's an extremely essential service to
+
+any dev's workflow and any you know
+
+back-end product and front end product
+
+just like you got to have it but it's
+
+also hard for me at this point to
+
+creatively think of like what's a good
+
+hackathon around authentication is it
+
+even a hackathon worthy type product or
+
+you know and how does that work or how
+
+have you guys seen that get creative
+
+because again this is that Art and
+
+Science and you don't have to come up
+
+with an example based on authentication
+
+on the fly but like with other onetick
+
+Pony or like smaller tools that seem so
+
+narrow how do you come up with ideas
+
+like that so we have several hackathons
+
+with OCTA um and so I've got one I'm
+
+going to put it in the chat but if if
+
+you go to devpost decom and you type in
+
+Octa in search there's an example right
+
+there which is about that and so in this
+
+case and we've done several um but
+
+that's a really great question which is
+
+what if you have a tool and it's kind of
+
+binary it's just on or off it's not how
+
+creatively are you necessarily using it
+
+it's just like have you installed it or
+
+not should you then do a hackathon yeah
+
+we do them all the time yeah sure it
+
+takes a little bit more creativity in
+
+this case we talked about AI uh that is
+
+generally what is happening these days
+
+because you um you can build something
+
+that requires that you use the basic
+
+tool we also work with hosting companies
+
+Mo most of them too and it's like okay
+
+you're hosted by them but then what um
+
+and so it's very common to do that so we
+
+work with you on something that's
+
+creative I would say in general these
+
+days probably something that's AI
+
+related I can give a little bit more
+
+about that which is by AI related that
+
+doesn't necessarily mean like um here's
+
+a data set and optimize it these days
+
+most of it is sort of generative Ai and
+
+um really trying to say well okay how
+
+can you move something interesting
+
+forward uh with a baseline of using our
+
+tool um yeah so that there's an example
+
+there happy to happy to go deeper if
+
+interested no that's helpful and I think
+
+yeah giving people like you examples is
+
+they can go search for that's perfect
+
+because uh I knew you guys had worked
+
+with with OCTA and other off providers I
+
+imagine along the way and that's it just
+
+to me it's like it's so interesting to
+
+think about like any tool can be you
+
+know in real life it's going to be
+
+applied many ways and so the question is
+
+how do we generate interesting
+
+constraints so that it can be applied in
+
+different creative ways in a hackathon
+
+and I think that's that's kind of a fun
+
+thing to think about um okay Co I'll add
+
+one more thing you know that um I I
+
+promise I'm not trying to slip this in
+
+for uh purposes other than um uh we
+
+talked about the private hackthon
+
+product I agree that private hackthon
+
+with for your employees is not relevant
+
+but I do want to talk about something um
+
+we have a case study coming out really
+
+soon which is private hackathons with
+
+your customers this very much is in the
+
+dev relations world or um for sales
+
+prospects Etc and um as we all know
+
+lately with the changes that have been
+
+happening in the industry a lot of devel
+
+is moving more toward Revenue not just
+
+toward longtail in general so I I
+
+actually think it's useful um so um if
+
+you have key accounts and anybody in
+
+devell could be sales Engineers could be
+
+sales people could be other teams in
+
+marketing but often we're seeing Dev
+
+relations people working with key
+
+accounts running hack accounts with one
+
+or more key accounts on dev post for
+
+teams which is private because let's
+
+just say Dropbox who was be on this like
+
+they're not going to want to show
+
+whatever they're working on in a public
+
+setting um that's actually um been
+
+fantastic lately and a really great use
+
+case so it is Dev relations related
+
+which is if any of you are either are or
+
+are working with people on your key
+
+accounts you wanted to get them to build
+
+whether they're prospective customers or
+
+customers I would consider private
+
+hackathons all the same things that
+
+we've said here apply the same stuff
+
+with content the same thing with um well
+
+how to structure hackathon and more yeah
+
+I think the um this is something we
+
+actually I kind of draw a parallel in
+
+content this comes up often too where um
+
+sometimes people sort of start to run
+
+out of what they think are the like most
+
+obvious public facing I don't know
+
+content pieces that they can do but
+
+something that often unlocks this is
+
+like when you think about your biggest
+
+customers or your biggest prospects
+
+right now what is one thing that if they
+
+saw it like we could write about it or
+
+we could demonstrate it would sort of
+
+unlock them and be like oh I see like
+
+this is this is how I'd use the product
+
+or this makes it so easy for me to
+
+implement that I'm ready to go and I
+
+think that kind of goes to your same
+
+point it's like what could we sort of
+
+show the customer we can build for them
+
+or with you know with our Tool uh is a
+
+really cool way to like encourage that
+
+kind of just get that conversation
+
+moving and the Creative Juice is flowing
+
+and give it's it's almost like you need
+
+to unlock enough time for them to just
+
+think about it really deeply and and I
+
+think that can be valuable and don't
+
+right I want to make sure I'm
+
+understanding um maybe you can rephrase
+
+that a little bit more for me I
+
+understood what you're saying that
+
+sometimes just being able to say here's
+
+how you can use the tool or here's a key
+
+uh selling point that can unlock it but
+
+maybe you can take in a little bit
+
+deeper in terms of what like for for us
+
+for example like say you are a a
+
+database type company you've got some
+
+kind of backend as a service or database
+
+often a client might come to them and
+
+say hey does this work for e-commerce
+
+and it's like yeah technically it can
+
+work for anything it's agnostic right
+
+but like they want to what they mean is
+
+I want to see an example in e-commerce
+
+and I want to see an example that
+
+integrates with my front end that I've
+
+already like built out you know things
+
+that like sort of show them not just
+
+that it does work but show them in it's
+
+working you know it's like here's a a
+
+demonstration in practice what that
+
+allows them to do because often like the
+
+buyer might be different from the
+
+implementer so what that can allow them
+
+to do is the the customer who's the the
+
+buyer can kind of show their implement
+
+or their engineering team like hey this
+
+is valuable and here's how they use it
+
+or they demonstrate that it can be used
+
+so again like back end of the service is
+
+an example showing more front-end
+
+Integrations or showing more ways that
+
+it can be used in specific ways sort of
+
+helps unlock certain buyers that maybe
+
+got stuck because their their
+
+engineering team was a little more
+
+skeptical got it yeah and so was there
+
+um question around how hackathons could
+
+potentially or just more of well tie in
+
+was more just observation like it's the
+
+same idea like you're building this
+
+internal hackathon with a customer you
+
+kind of get that same level of unlock
+
+where you're able to build out things
+
+that people you know maybe just imagined
+
+but you're actually put into practice I
+
+think that's a terrific point and I see
+
+what you're getting at there yeah
+
+actually this one that this case study
+
+that'll be coming out soon and I can
+
+mention it's with sap and a bunch of
+
+their customers actually um there was an
+
+instance where again this is public
+
+information publicly approved
+
+information where there was a senior
+
+person in the room who had heard about
+
+it authorized stuff but had not actually
+
+messed around with the tool had not
+
+actually touched it and so getting them
+
+to build with your tools um really does
+
+pay dividends I couldn't agree more yeah
+
+um so let's talk about promoting a
+
+hackathon and obviously the big
+
+Advantage working with you guys not you
+
+know not to oversell it but like having
+
+this big community of like publicly you
+
+know ready to go software Engineers is
+
+is massively valuable I can see that but
+
+you know what do I do if I'm a company
+
+that doesn't have that or doesn't have
+
+the resources yet to work with you um
+
+are there any best practices I know it's
+
+not magic like you know you can post
+
+about it on Twitter you can try to run
+
+ads I'm sure you can try to do some
+
+things like what really works what do
+
+you try to to encourage companies to do
+
+besides just working with you guys yeah
+
+everything uh everything you possibly
+
+can so um certainly if you're working
+
+with a company then H having them let
+
+their Community know and the way we do
+
+that is through email also through
+
+Discord and on our site featured
+
+hackathons and when people sign up to
+
+Dev post they um say what their skills
+
+are and their interests are and then we
+
+target them based on that um let them
+
+know about hackathons that are relevant
+
+to them so that's really big with our
+
+full marketing package we're we're
+
+bringing the majority of submitters the
+
+vast majority of the time uh but on the
+
+customer side regardless of whether
+
+you're working with somebody or not
+
+absolutely letting your community know
+
+um that could be prospects that could be
+
+existing developers already just
+
+re-engaging them and letting them know
+
+uh and then encouraging them to let
+
+other people know um Partnerships always
+
+work well uh so if there if you can have
+
+usually a small limited number of
+
+Partners to help spread the word hey
+
+we'll we'll link to your API or your
+
+developer tools on our resources page in
+
+exchange for you letting Community know
+
+maybe contributing some prize money
+
+that's an option um you want to be
+
+careful in our experience not to have
+
+too many partners with tools because the
+
+more requirements that you have to build
+
+right uh within competition and the
+
+fewer submissions there will be you want
+
+to try to keep it as easy as possible
+
+and so and then of course website um
+
+ensuring that it's promoted on all the
+
+websites it there's nothing uh
+
+particularly unique it's just making
+
+sure that everybody knows through email
+
+through social channels through any
+
+real-time Community um through any
+
+partner website and um also ensuring
+
+that what you tell them is valuable
+
+here's yeah what you'll learn here's
+
+what the deadline is here are what you
+
+can win uh all of these things are
+
+really important um and that's just
+
+promoting it in the first place then
+
+once they've registered there's a whole
+
+other group of things to get them to
+
+actually submit right because you want
+
+to make sure that they follow through
+
+all the way which is a you know multi
+
+multi-step process they're going to
+
+build a little app they're going to have
+
+to submit it within the requirements and
+
+time time span so I imagine there is
+
+there like a a best practice there do we
+
+do like a daily follow-up a weekly
+
+follow-up like what do you usually
+
+recommend yeah so it's easy to register
+
+it's click a button essentially form and
+
+you've registered but now finding time
+
+in my life to build and come up with an
+
+idea idea and get it working and just
+
+submit it is that's the tough part
+
+that's why we like aons because as we
+
+said between five% and a third of them
+
+actually go on and do that which we
+
+we're blown away by um but yeah the
+
+tricks are not daily check-ins
+
+definitely not um uh developers hate
+
+hate email and uh uh but but got them
+
+know still got to let them know trying
+
+to get them into um you know your
+
+slacker your Discord or whatever your
+
+using could be useful for those that
+
+actually want to do it um and just being
+
+helpful hey there's a month to the
+
+deadline there's two weeks to the
+
+deadline or we have a week here and by
+
+the way we're doing these office hours
+
+we have this information or this content
+
+for you to do trying to be as helpful as
+
+possible and then um that's just to let
+
+them reminders and then we do suggest a
+
+couple check-ins which is just are you
+
+submitting on De post it's part of our
+
+uh we set it up for our manage hack
+
+founds to be part of the offering which
+
+are check-ins and can kind of get a
+
+sense how are you planning to submit or
+
+not which gives us a better sense of
+
+that yeah let's talk too about
+
+incentives um because I imagine that's
+
+kind of part of the promotion it kind of
+
+ties in together right like I want to
+
+promote it but I also have to tell
+
+people what are they going to get if
+
+they win or what are the top prizes what
+
+are the the kind of layers of tiers we
+
+could get um what have you guys found
+
+works really well for incentive and you
+
+know is money the best motivator or is
+
+it the answer is probably it depends
+
+like what does it depend on yeah so we
+
+tell people wide range of between 10 and
+
+$50,000 in prizes we've done them in the
+
+millions and hundreds of thousands we've
+
+had them without them competitions to
+
+get a meeting with Michelle Obama for
+
+example things like this um so it's uh
+
+you know or a political figure or or an
+
+interesting figure in general so it
+
+really depends and again you got to
+
+think about well if there's a first
+
+place there's a second place or a third
+
+place you know um that as well we
+
+encourage a mix of cash and in kind
+
+prizes we do think cash is important you
+
+don't have to but it is more common and
+
+it's more of a sign of respect for their
+
+time that they're putting into it think
+
+of all the people that don't win in
+
+their time so this is just for the few
+
+that do um and on in kind prizes it
+
+depends if it's a corporate competition
+
+like um like either a private one or one
+
+geared toward Enterprise it might be
+
+more about conference tickets exposure
+
+to other customers exposure to the
+
+executives potentially promise meetings
+
+with Venture firms there um that kind of
+
+a thing so it it depends um swag's
+
+always a good thing to have credits is
+
+pretty much a no-brainer where if you
+
+have a product that costs money you're
+
+gonna have to give them out anyway uh so
+
+it's really a mix trying to think about
+
+what's interesting and what kind of
+
+developer you're trying to attract and
+
+it's not just prizes as as we talked
+
+about earlier there's other elements of
+
+hackathons that matter a lot which is
+
+deadlines and then there's a competitive
+
+spirit and it's not so much about
+
+beating other people it's really like a
+
+marathon you're trying not to win the
+
+New York Marathon you just want to set a
+
+goal and accomplish it so uh there is
+
+something something to be said for that
+
+as an incentive too which I think is
+
+unique to to ha I like the idea of the
+
+incentives being kind of relevant for
+
+the the the hackathon or the part the
+
+product or the something you know like
+
+some way like tied in so if it's you
+
+know AWS throw in a hackathon they give
+
+you free tickets to some event they're
+
+doing in your your city or whatever like
+
+that kind of thing makes a lot of sense
+
+because it's kind of like building that
+
+that cycle um the other thing I'll say
+
+this kind of mirrors my experience with
+
+draft. Dev we have 350 or so writers all
+
+software Engineers that write for us
+
+just nights and weekends on the side
+
+basically and of course we pay them all
+
+for their work but honestly for a lot of
+
+them especially more senior ones the
+
+money is not the needle mover it's they
+
+get credit on the other you know
+
+people's websites they get to learn
+
+about Cool Tools they get to write for
+
+some of their favorite companies um and
+
+so it's it's like uh yes I believe in
+
+like rewarding people for their time and
+
+and you know like cash is a little part
+
+of that but also it's important to think
+
+about like what really motivates the the
+
+kind of people who are going to do this
+
+and like like a meeting with Michelle
+
+Obama like that's no amount of money can
+
+get you that right like I mean I guess
+
+some amount of money maybe does but like
+
+it's very hard like it's not something I
+
+would be able to go do on my own whereas
+
+you know 300 bucks I can make 300 bucks
+
+in a couple hours if I'm a software
+
+developer so it's like a little less of
+
+a a mover yeah and and and you're and
+
+that was also an extreme example but
+
+there are um there could be me so a
+
+typical example would be right so it's a
+
+company hackathon getting your work in
+
+front of the executives or getting help
+
+with intellectual property and patent
+
+development or these kinds of things
+
+matter it is definitely worth about you
+
+know yes I I think you're 100% right we
+
+just think about the product be creative
+
+with the product and think about the
+
+audience um but but I I money is there's
+
+a menu different people have uh
+
+motivations so some people really only
+
+care about the cash others don't in
+
+general it's a mix you don't want to
+
+spend all this time and and not get
+
+anything so uh it really it really just
+
+depends yeah that's a good point it also
+
+comes down to budget at the end at the
+
+end of the day it's the customer how
+
+much do they have available and then we
+
+make it work within that and so much of
+
+the time it's that there was something I
+
+was talking to Richard on your team
+
+recently about hackathons and one thing
+
+he pointed out which I never would have
+
+thought of and I think this is worth
+
+mentioning just because if I never
+
+thought of it then I'm sure some people
+
+listening here would never thought of it
+
+is there are some legal implications to
+
+paying out prizes to people all over the
+
+world and often these have like like you
+
+point out most hackathons are remote but
+
+there are there are actual like laws and
+
+requirements of how you can and can't
+
+pay people in certain countries in areas
+
+and so tell me you don't have to go
+
+through any detail there but tell me
+
+high level like you know what have you
+
+guys learned about that what what is
+
+anybody throwing their own hackathon
+
+need to know about that you mean how in
+
+Brazil you have to give out gold bars as
+
+prizes not joke he
+
+told so yeah so uh we uh we are we are
+
+experts at that um and so from a project
+
+Pro Management standpoint and I see that
+
+there's a question about our offering
+
+happy to get to that during the QA Q&A
+
+if that matter if that's interesting but
+
+um yes so um we have different levels of
+
+project management but in general we
+
+cover the rules and we cover prize
+
+fulfillment um for pretty much all three
+
+of the packages that we offer for
+
+project management and then there's
+
+varying levels of how involved we get in
+
+everything from helping people
+
+encouraging them to submit in reviewing
+
+their submissions uh and more so and
+
+spreading the word but yeah uh you've
+
+got to be careful you don't want to
+
+change the the rules unless you
+
+absolutely have to and if you do you
+
+have to let everybody know a lot of
+
+in-person hacked conss to be frank don't
+
+really they're fast and they play you
+
+know fast and loose with rules because
+
+it's like in person and a few people or
+
+whatever but on we're talking virtual
+
+Global competitions in general you these
+
+are there's fairness and there's laws
+
+about this and you have to be fair and
+
+so you can't just say oh we're going to
+
+give a prize to this person even though
+
+our rules said X or Y so working with an
+
+organization that can help you with that
+
+makes a lot of sense yeah I I just was
+
+you know as I was talking to Richard BR
+
+he's telling about the legal and like
+
+the amount of Hoops you're going through
+
+with certain countries and stuff it's
+
+like man that alone is like a reason to
+
+Outsource that just because being an
+
+entrepreneur I I hate legal stuff it's
+
+just it's like one of those things that
+
+just slows you down and I know why it's
+
+there it's all good but um you know it's
+
+never a fun thing to deal with right so
+
+anyway uh good to know and definitely
+
+good to um look into especially if
+
+you're going to do remote you're going
+
+to be paying people around the world
+
+know what the right way to do that is
+
+and to run a competition that is seen as
+
+a legal competition you know like you
+
+said the rules are are very clear and
+
+not changed and doesn't fall into that
+
+like gambling or something yeah yes
+
+exactly you don't want to go up all
+
+these rules are there because they don't
+
+want the gambling they don't want you be
+
+confused with the gambling folks so but
+
+I would say in general it's not so bad
+
+and um it's worth it if you want to do a
+
+virtual hackathon that's scalable you
+
+reaching more Enterprise developers have
+
+more time to work on their applications
+
+they're going to be more polished versus
+
+sort of you know raw prototypes and uh
+
+that's those are the advantages why it's
+
+worth doing yeah yeah Steve um asked a
+
+question I was goingon to ask so I'll
+
+start with this one Clayton but I think
+
+yeah let's get into some questions here
+
+um what metrics would you use for a
+
+hackathon success and I'm gonna guess
+
+the answer is it depends on the
+
+organization what your goals are Etc but
+
+what are some things you see commonly
+
+absolutely so generally there's going
+
+the number of uh folks that that sign up
+
+and participate so how many participants
+
+you have that's going to really uh That
+
+Matters to people again differs based on
+
+how new the company is ETC what the
+
+prizes are how well they're run and put
+
+together these kinds of things but uh
+
+you know the reason people are doing
+
+this to grow their developer Community
+
+that's one of them the other is to
+
+actually engage them to get them build
+
+so that would be the number of projects
+
+and they don't just look at quantity
+
+they look at quality so uh we we use uh
+
+input metrics as a framework along with
+
+with objectives and key results okrs and
+
+the input metrics for us um are around
+
+how easy are we making it to submit and
+
+um and then ultimately um what are the
+
+things that we can do to drive quantity
+
+and quality of submissions which are
+
+some of the key outputs so a developers
+
+in the community that you've B um the
+
+projects now there's additional stuff
+
+and it does depend but you can get
+
+product feedback so you have all these
+
+people going through this flow and using
+
+your product that's valuable feedback to
+
+give to yourct team or Engineers Etc
+
+right um hiring is uh for us on um
+
+Enterprise hackathons is sort of less of
+
+a thing but it certainly happens all the
+
+time you can reach out to these people
+
+with their permission uh if you're
+
+interested from a recruiting standpoint
+
+um those are more but that those are the
+
+big ones yeah gr develop community and
+
+and the quality and quantity of
+
+applications or projects that are built
+
+I wouldn't have immediately thought of
+
+the hiring one but that actually makes a
+
+lot of sense too it's like you know
+
+they're getting familiar with your
+
+product and you're they're kind of
+
+having a touch point with your your team
+
+and so if they do have the skills that
+
+you're looking for makes sense to to
+
+reach out um yeah let's talk about Ai
+
+and then also kind of dovetails into one
+
+of the questions here which is about
+
+like how are hackathons changing and
+
+evolving and I think um there's there's
+
+lots of ties to AI but there's probably
+
+other things that you see on the horizon
+
+there what what do you see is like the
+
+future of hackathons obviously we don't
+
+think they're dying or going away but
+
+like what could be different about them
+
+or how's AI impacting them what are you
+
+seeing I think AI is impacting them in
+
+every single way from the tools that
+
+people are using which can now to some
+
+degree think for themsel not everything
+
+has to be uh programmatically created it
+
+can be through learning reinforcement
+
+and that's reinforcement learning and
+
+that's that's actually huge we're seeing
+
+that in the tools we're also just seeing
+
+in Opportunities and we've already begun
+
+on this um to save people time with
+
+hackathons so actually our users tell us
+
+they sometimes spend up to 20 hours
+
+sometimes as much as they do building
+
+thinking of what their idea should be
+
+which is shocking to me uh but it's true
+
+and so for some people um helping um
+
+come up with ideas and um we have some
+
+that are already live now on this um is
+
+is a really useful tool which is to help
+
+save time for that um and so um but you
+
+know there's so much more from improving
+
+team building uh to um summarizing the
+
+results of a hackathon for everybody so
+
+it could be in both the management but
+
+then also in the creation of what you're
+
+actually building so I think it's
+
+tremendous I don't think it's going away
+
+it's like the invention of the personal
+
+computer in in in many of you people
+
+like myself uh but it is early and so I
+
+think one note on AI is that comp some
+
+companies are like yeah no we're not
+
+touching this right now we have to
+
+figure out more things around data
+
+privacy and of course there's
+
+responsible AI we've done a bunch of
+
+competitions focused on respons AI so I
+
+think that's going to be the the biggest
+
+bet which is that um they'll be um it'll
+
+be easier to participate in a hackthon
+
+and and also create a project the last
+
+thing that I think is absolutely
+
+important is that now you have people
+
+that aren't developers who are able to
+
+participate in hackathons uh you know
+
+anybody can come up with improvements um
+
+using a chat interface which then is GNA
+
+obviously change and grow in many ways
+
+and I think it'll be much easier to
+
+create applications uh think of low code
+
+no code uh you know to uh exponential
+
+Improvement yeah I'm I'm very interested
+
+and and overall bullish on the fact that
+
+AI low code lots of all I'm just going
+
+to put all those into they are like
+
+higher level abstractions of code
+
+because ultimately they're they're
+
+generating code way deep down but but
+
+like you see less and less of the code
+
+to inter interact with the the machine
+
+right um all of those are so impactful
+
+for just allowing creative interesting
+
+ideas to come to life fast F and with
+
+fewer resources and people often will
+
+talk about how that means the that means
+
+developers AR be needed it's like well
+
+somebody's creating all these tools that
+
+are higher level abstractions first of
+
+all but second of all each idea spawns
+
+its own ecosystem of ideas and
+
+complimentary things I think and that's
+
+how software is always done if it were
+
+true that higher level abstractions
+
+destroy the need for software developers
+
+then C++ would have destroyed the need
+
+for software developers and it didn't it
+
+only expanded so there's just you know
+
+what software developers write or how
+
+what it looks like might change over
+
+time to some extent but like people who
+
+understand how computers work and how
+
+they get you know information around
+
+each other and all that is they're gonna
+
+be even more cenal and so anyway I I'm
+
+excited about seeing that too yeah yeah
+
+and for those that are looking to
+
+upskill you know in AI I think
+
+hackathons are a great way to great way
+
+to do it to mess around tinker and have
+
+a deadline for on self and actually get
+
+it done and accomplish that yeah um two
+
+two more things I want to touch on
+
+private uh hackathons because we we've
+
+been kind of hinting at that let's talk
+
+about that really quick and then the
+
+last thing will be kind of budgeting and
+
+then you know what it's like to engage
+
+with you guys versus DIY version so uh
+
+let's what's a typical use case what are
+
+companies trying to get out of a private
+
+hackathon and how's it a little
+
+different from the public one yeah so
+
+setting aside um the employees within
+
+your company the engineers um because
+
+that's a sort of somewhat of a different
+
+topic although for any who's listening
+
+their company does Acton
+
+uh we save them tremendous amount of
+
+time grow participation if you think
+
+about all the employees and their
+
+salaries and the value of their time
+
+it's it's worth it that's a subscription
+
+product we charge by the seat um but no
+
+it's customer hackathons is the is the
+
+it's really what I said earlier so I
+
+probably don't even need to spend too
+
+much time about it other than to say
+
+that if you have um you know customers
+
+key accounts and um you want to
+
+incentivize them in the same way um then
+
+you use Dev post for teams for that and
+
+we also have these built-in templates
+
+where you can save a hackathon and
+
+launch one with one click it comes with
+
+like 15 or 20 existing templates for
+
+hackthon and anybody can spin them up so
+
+for that you don't even need Services
+
+we'll help you with stuff but it's
+
+actually self- served for your customers
+
+and your employees and that's what
+
+devpost for teams are it's private
+
+Totally Secure you can get in through
+
+SSO you can't use your devpost dcom
+
+account to get into it totally different
+
+um and we we're working on it because
+
+it's uh there would been tremendous
+
+amount of requ starting with the
+
+pandemic and moving onward to where
+
+there's now been this big focus on
+
+shifting to revenue and customers so
+
+that's that's why cool um okay let's
+
+talk about cost so let's pretend I'm
+
+gonna set up yeah let's sorry let's talk
+
+about cost so pretend I'm gonna set up
+
+my own hackathon and I have myself and
+
+Clayton we're going to be the ones
+
+running it ourselves right let's take
+
+you know we're gonna spend for our time
+
+whatever that is and you can give me an
+
+estimate on what that might be but then
+
+what all what other costs are involved
+
+there the prize cost the like what's the
+
+typical range of budgets that that a
+
+company might spend sure so um we have a
+
+couple different packages we have
+
+packages for uh project management which
+
+is US assisting with the competition
+
+those are for the most part required and
+
+then we have three packages for
+
+marketing promotion those are optional
+
+it really depends on whether you want
+
+that um uh you're you're looking at 10K
+
+at the minimum and 80k at the maximum
+
+depending on what you want to do for
+
+both marketing and project management um
+
+if you want to do everything yourself we
+
+will we we can just give you the
+
+platform alone that's exceptionally rare
+
+but it's possible uh we just want to
+
+make sure that the rules are good and
+
+that's why we do the rules and the prize
+
+fulfillment because we want to make sure
+
+that there's a quality there um by the
+
+way if you're running an in-person
+
+hackathon it's free you can just use our
+
+platform for any inperson event and
+
+that's how we sign up between three and
+
+5,000 developers every week and grow
+
+this community because we're powering
+
+all of these Grassroots competitions
+
+around the globe so that's generally and
+
+then in terms of prizes you know 10 to
+
+50K range is encouraged it can be higher
+
+it can be lower it's just that's
+
+generally what we what we tell people if
+
+you're looking at like 10K On The Low
+
+End plus whatever prizes you want to
+
+give and 80k at the highend plus
+
+whatever prizes you can give unless
+
+you're running everything yourself which
+
+would be less than that it's around
+
+$3,000 for the month okay gotcha yeah so
+
+and then they typically run for a month
+
+or so just uh yeah usually there's a
+
+submission period of about six weeks um
+
+but it can be shorter it can be longer
+
+cool okay um well Brandon we're at time
+
+so I won't um keep everybody extra long
+
+this has been super helpful just a out
+
+of my own curiosity I love to learn
+
+about anything Dev marketing this is a
+
+whole Space I've never run a hackathon
+
+I've never had to you know be the one in
+
+charge of it so it's cool to learn um
+
+and I'm sure for listeners too this is
+
+going to be really interesting and
+
+insightful where can people go to find
+
+out more about you or ask you questions
+
+I assume devpost do.com is the best
+
+starting point but anything else you
+
+want to plug deos.com
+
+uh feel free to email me Brandon at as
+
+well anytime you have any questions and
+
+um thank you so much for having me
+
+really appreciate the conversation
+
+thanks to everybody for the questions
+
+too yeah absolutely thanks for joining
+
+everybody
+
